@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Aditya
-- 👀 I’m interested in hacking and cybersecurity
-- 🌱 I’m currently learning cybersecurity
+
 
 
 <!---
